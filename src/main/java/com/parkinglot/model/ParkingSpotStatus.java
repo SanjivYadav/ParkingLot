@@ -1,7 +1,6 @@
 package com.parkinglot.model;
 
-public enum SpotStatus {
+public enum ParkingSpotStatus {
     AVAILABLE,
-    OCCUPIED,
-    UNDER_MAINTAINANCE
+    UNAVAILABLE
 }

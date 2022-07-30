@@ -1,7 +1,8 @@
 package com.parkinglot.model;
 
-public enum SpotType {
-    CAR,
-    BIKE,
-    HEAVY
+public enum ParkingSpotType {
+    SMALL,
+    MEDIUM,
+    LARGE,
+    ELECTRIC
 }

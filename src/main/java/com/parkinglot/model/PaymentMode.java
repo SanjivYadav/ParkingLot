@@ -1,2 +1,8 @@
-package com.parkinglot.model;public enum PaymentMode {
+package com.parkinglot.model;
+
+public enum PaymentMode {
+    CASH,
+    CC,
+    DC,
+    UPI
 }

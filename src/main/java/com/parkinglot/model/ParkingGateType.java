@@ -1,6 +1,6 @@
 package com.parkinglot.model;
 
-public enum GateType {
+public enum ParkingGateType {
     ENTRYGATE,
     EXITGATE
 }

@@ -1,4 +1,4 @@
 package com.parkinglot.model;
 
-public class ExitGate extends Gate{
+public class ParkingExitGate extends ParkingGate {
 }

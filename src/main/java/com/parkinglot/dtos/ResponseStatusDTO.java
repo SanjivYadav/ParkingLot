@@ -1,2 +1,6 @@
-package com.parkinglot.dtos;public class ResponseStatusDTO {
+package com.parkinglot.dtos;
+
+public enum ResponseStatusDTO {
+    SUCCESS,
+    FAILED
 }
